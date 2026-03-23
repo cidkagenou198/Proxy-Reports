@@ -1,4 +1,4 @@
-Proxy — Secure & Lazy-Load Reports (Refactoring)
+Proxy 
 ------------------------------------------------
 Narrative (Current Code)
 A small CLI tool called CampusVault opens internal reports for different users.
